@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<header>
+		<title>Example</title>
+		<meta charset="utf-8>
+	</header>
+	</body>
+		<h1>This is Awesome</h1>
+		<h2>Learning How to Use Git<h2>
+	</body>
+</html>
